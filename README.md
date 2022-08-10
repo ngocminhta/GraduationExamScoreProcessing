@@ -1,0 +1,2 @@
+# GraduationExamDataProcessing/Error
+Here, I commited a file named 28.csv, which is score data of Thanh Hoa province - a province with a large number of students. And there are about 5000 students' score are missing when run the crawl code in multi-threading mode, but when I run it in single-threading mode, the gotten data is sufficient.
